@@ -1,0 +1,2 @@
+The module "ECR" is called in the "main.tf" file to create these ECR resources with appropriate input variables. 
+In ecr.tf The resource is created in an Amazon Elastic Container Registry (ECR) repository with the specified name and image tag mutability. It also configures image scanning with the option to scan on push. 

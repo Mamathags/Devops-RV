@@ -1,0 +1,1 @@
+Module "BastionHost": This module is sourced from the "./module/BastionHost" directory and is used to create a bastion host (jump host) instance within the VPC. 

@@ -1,0 +1,1 @@
+A Module is a collection of Terraform configuration files organized into a directory. Modules allow you to encapsulate and reuse Terraform code, making it easier to manage and share infrastructure configurations

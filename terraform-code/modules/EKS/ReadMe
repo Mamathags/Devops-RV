@@ -1,0 +1,2 @@
+The module "EKS" is called in the "main.tf" file to create these EKS resources with the specified input variables. 
+The"eks.tf" defines the necessary IAM roles, EKS cluster, and EKS node groups with their configurations to set up an Amazon EKS environment.

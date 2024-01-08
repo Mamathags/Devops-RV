@@ -1,0 +1,1 @@
+ A Module is a container for a set of resources that are used together. Modules allow you to encapsulate and organize your infrastructure code into reusable and shareable components. They provide a way to abstract and package configurations so that you can use them across different projects or environments.
